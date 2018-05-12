@@ -1,0 +1,32 @@
+_repo: Brock-Centenary-1812-1912_38620
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Carstairs, John Stewart
+    birthdate: 1864
+    gutenberg_agent_id: '39580'
+    url: http://www.gutenberg.org/2009/agents/39580
+covers:
+- cover_type: archival
+  image_path: 38620-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Fraser, Alexander
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '37932'
+    url: http://www.gutenberg.org/2009/agents/37932
+description: ''
+gutenberg_issued: '2012-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38620'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brock, Isaac, Sir, 1769-1812'
+- !lcc 'E300'
+title: Brock Centenary, 1812-1912
+url: http://www.gutenberg.org/ebooks/38620
